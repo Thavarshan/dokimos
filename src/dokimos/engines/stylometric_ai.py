@@ -22,13 +22,9 @@ import statistics
 
 from dokimos.config import Settings, get_settings
 from dokimos.schemas.documents import Chunk
-from dokimos.schemas.results import (
-    AiChunkFinding,
-    AiLikelihoodIndicator,
-    AiLikelihoodResult,
-    Caveat,
-    build_finding_id,
-)
+from dokimos.schemas.results import (AiChunkFinding, AiLikelihoodIndicator,
+                                     AiLikelihoodResult, Caveat,
+                                     build_finding_id)
 
 logger = logging.getLogger(__name__)
 

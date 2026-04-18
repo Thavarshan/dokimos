@@ -9,30 +9,24 @@ from xml.etree import ElementTree as ET
 import pytest
 
 from dokimos.config import Settings
-from dokimos.engines.base import AiLikelihoodEngine, PlagiarismEngine, SourceIndexer
+from dokimos.engines.base import (AiLikelihoodEngine, PlagiarismEngine,
+                                  SourceIndexer)
 from dokimos.engines.local_indexer import LocalSourceIndexer
 from dokimos.engines.placeholder_ai import PlaceholderAiEngine
 from dokimos.engines.placeholder_indexer import PlaceholderSourceIndexer
 from dokimos.engines.placeholder_plagiarism import PlaceholderPlagiarismEngine
-from dokimos.engines.remote_plagiarism import (
-    ArxivProvider,
-    DuckDuckGoProvider,
-    HybridPlagiarismEngine,
-    RemoteCandidate,
-    RemotePlagiarismEngine,
-)
+from dokimos.engines.remote_plagiarism import (ArxivProvider,
+                                               DuckDuckGoProvider,
+                                               HybridPlagiarismEngine,
+                                               RemoteCandidate,
+                                               RemotePlagiarismEngine)
 from dokimos.engines.shingling import make_shingles
 from dokimos.engines.shingling_plagiarism import ShinglingPlagiarismEngine
 from dokimos.engines.stylometric_ai import StylometricAiEngine
 from dokimos.exceptions import CorruptIndexError
 from dokimos.schemas.documents import Chunk
-from dokimos.schemas.index import (
-    ChunkRef,
-    IndexedChunk,
-    IndexedSource,
-    InvertedShingleIndex,
-    SourceIndex,
-)
+from dokimos.schemas.index import (ChunkRef, IndexedChunk, IndexedSource,
+                                   InvertedShingleIndex, SourceIndex)
 
 
 def _write_index(tmp_path: Path, index: SourceIndex) -> Path:

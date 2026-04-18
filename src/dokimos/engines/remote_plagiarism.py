@@ -29,13 +29,9 @@ from dokimos.exceptions import IngestionError
 from dokimos.ingestion.chunker import get_chunks
 from dokimos.ingestion.reader import read_document
 from dokimos.schemas.documents import Chunk, Document
-from dokimos.schemas.results import (
-    OffsetSpan,
-    PlagiarismMatch,
-    PlagiarismResult,
-    SourceMetadata,
-    build_finding_id,
-)
+from dokimos.schemas.results import (OffsetSpan, PlagiarismMatch,
+                                     PlagiarismResult, SourceMetadata,
+                                     build_finding_id)
 
 logger = logging.getLogger(__name__)
 
