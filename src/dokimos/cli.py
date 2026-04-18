@@ -219,3 +219,4 @@ def index_sources(
         raise typer.Exit(code=1) from exc
         raise typer.Exit(code=1) from exc
         raise typer.Exit(code=1) from exc
+        raise typer.Exit(code=1) from exc

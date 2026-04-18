@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on Keep a Changelog, and this project follows Semantic Versioning.
 
+## [0.1.1] - 2026-04-18
+
+### Fixed
+
+- Restored a valid export list in `dokimos.engines` so the CLI can import and run again.
+- Corrected the README quick example to use the real `dokimos analyze` command and output shape.
+- Normalized several import blocks in engine modules and tests to keep the repository Ruff-clean.
+
 ## [0.1.0] - 2026-04-18
 
 ### Added
@@ -24,4 +32,5 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 - This is the first public release of Dokimos.
 
+[0.1.1]: https://github.com/Thavarshan/dokimos/releases/tag/v0.1.1
 [0.1.0]: https://github.com/Thavarshan/dokimos/releases/tag/v0.1.0

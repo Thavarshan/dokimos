@@ -13,6 +13,14 @@
 
 The Python distribution name is still `dokimos-cli`, but the primary command is `dokimos`.
 
+```text
+dokimos analyze essay.txt
+
+Document: essay.txt
+Status:   complete
+Summary:  analyses=plagiarism, ai_check plagiarism=0.12 ai=0.63
+```
+
 Repository:
 
 - GitHub: <https://github.com/Thavarshan/dokimos>
