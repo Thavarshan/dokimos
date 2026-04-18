@@ -42,6 +42,7 @@ Homepage = "https://github.com/Thavarshan/dokimos"
 Repository = "https://github.com/Thavarshan/dokimos"
 Issues = "https://github.com/Thavarshan/dokimos/issues"
 Documentation = "https://github.com/Thavarshan/dokimos#readme"
+Changelog = "https://github.com/Thavarshan/dokimos/blob/main/CHANGELOG.md"
 "Bug Tracker" = "https://github.com/Thavarshan/dokimos/issues"
 
 [project.optional-dependencies]

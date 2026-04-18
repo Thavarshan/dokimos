@@ -20,6 +20,7 @@ Repository:
 - Contributing: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Security policy: [SECURITY.md](SECURITY.md)
 - Code of conduct: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- Changelog: [CHANGELOG.md](CHANGELOG.md)
 - Citation metadata: [CITATION.cff](CITATION.cff)
 
 ## What It Does
