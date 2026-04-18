@@ -1,0 +1,13 @@
+[book]
+title = "Dokimos CLI"
+authors = ["Dokimos Team"]
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+create-missing = true
+
+[output.html]
+git-repository-url = "https://github.com/Thavarshan/dokimos"
+edit-url-template = "https://github.com/Thavarshan/dokimos/edit/main/{path}"

@@ -16,8 +16,7 @@ from rich.console import Console
 from dokimos.config import get_settings
 from dokimos.engines.base import PlagiarismEngine
 from dokimos.engines.local_indexer import LocalSourceIndexer
-from dokimos.engines.remote_plagiarism import (HybridPlagiarismEngine,
-                                               RemotePlagiarismEngine)
+from dokimos.engines.remote_plagiarism import HybridPlagiarismEngine, RemotePlagiarismEngine
 from dokimos.engines.shingling_plagiarism import ShinglingPlagiarismEngine
 from dokimos.engines.stylometric_ai import StylometricAiEngine
 from dokimos.exceptions import CheckerError
@@ -217,8 +216,4 @@ def index_sources(
 
     except CheckerError as exc:
         console.print(f"[red]Error:[/red] {exc}")
-        raise typer.Exit(code=1) from exc
-        raise typer.Exit(code=1) from exc
-        raise typer.Exit(code=1) from exc
-        raise typer.Exit(code=1) from exc
         raise typer.Exit(code=1) from exc

@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "dokimos-cli"
-version = "0.1.1"
+version = "0.1.2"
 description = "CLI for plagiarism evidence discovery and AI-writing-risk analysis"
 readme = "README.md"
 requires-python = ">=3.12"
@@ -41,7 +41,7 @@ dependencies = [
 Homepage = "https://github.com/Thavarshan/dokimos"
 Repository = "https://github.com/Thavarshan/dokimos"
 Issues = "https://github.com/Thavarshan/dokimos/issues"
-Documentation = "https://github.com/Thavarshan/dokimos#readme"
+Documentation = "https://github.com/Thavarshan/dokimos/blob/main/docs/README.md"
 Changelog = "https://github.com/Thavarshan/dokimos/blob/main/CHANGELOG.md"
 "Bug Tracker" = "https://github.com/Thavarshan/dokimos/issues"
 

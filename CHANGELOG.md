@@ -4,6 +4,22 @@ All notable changes to this project will be documented in this file.
 
 The format is based on Keep a Changelog, and this project follows Semantic Versioning.
 
+## [0.1.2] - 2026-04-18
+
+### Added
+
+- mdBook-ready project documentation under `docs/` covering setup, CLI usage, configuration, AI-likeness caveats, and troubleshooting.
+
+### Changed
+
+- Reduced the top-level README to a concise landing page that links readers into the dedicated documentation tree.
+- Pointed the package metadata documentation URL at the new `docs/README.md` entry page.
+
+### Fixed
+
+- Removed duplicate trailing exports from `dokimos.engines` and duplicate error raises in the CLI source index command.
+- Re-normalized import formatting in engine modules and tests to keep the repository validation clean.
+
 ## [0.1.1] - 2026-04-18
 
 ### Fixed
@@ -33,4 +49,5 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 - This is the first public release of Dokimos.
 
 [0.1.1]: https://github.com/Thavarshan/dokimos/releases/tag/v0.1.1
+[0.1.2]: https://github.com/Thavarshan/dokimos/releases/tag/v0.1.2
 [0.1.0]: https://github.com/Thavarshan/dokimos/releases/tag/v0.1.0

@@ -20,9 +20,13 @@ from dokimos.engines.shingling import make_shingles
 from dokimos.exceptions import CorruptIndexError
 from dokimos.schemas.documents import Chunk
 from dokimos.schemas.index import SourceIndex
-from dokimos.schemas.results import (OffsetSpan, PlagiarismMatch,
-                                     PlagiarismResult, SourceMetadata,
-                                     build_finding_id)
+from dokimos.schemas.results import (
+    OffsetSpan,
+    PlagiarismMatch,
+    PlagiarismResult,
+    SourceMetadata,
+    build_finding_id,
+)
 
 logger = logging.getLogger(__name__)
 

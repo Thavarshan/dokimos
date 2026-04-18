@@ -24,6 +24,12 @@ If you are changing formatting-sensitive files, also run:
 ./.venv/bin/ruff format src tests
 ```
 
+If you are changing long-form documentation and have `mdbook` installed locally, preview the docs with:
+
+```bash
+mdbook serve docs
+```
+
 ## Pull Requests
 
 - Keep changes focused and explain the user-facing impact.
