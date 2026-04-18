@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on Keep a Changelog, and this project follows Semantic Versioning.
 
+## [0.1.3] - 2026-04-18
+
+### Fixed
+
+- Removed the unsupported `multilingual` key from the mdBook configuration so `mdbook build docs` and `mdbook serve docs` work on the installed mdBook release.
+- Ignored generated `docs/book/` output so local docs builds do not pollute the repository status.
+- Repaired accidental duplicate export and unreachable error-raise drift in the CLI and engine package files, and re-normalized import formatting across the touched Python modules.
+
 ## [0.1.2] - 2026-04-18
 
 ### Added
@@ -48,6 +56,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 - This is the first public release of Dokimos.
 
+[0.1.3]: https://github.com/Thavarshan/dokimos/releases/tag/v0.1.3
 [0.1.1]: https://github.com/Thavarshan/dokimos/releases/tag/v0.1.1
 [0.1.2]: https://github.com/Thavarshan/dokimos/releases/tag/v0.1.2
 [0.1.0]: https://github.com/Thavarshan/dokimos/releases/tag/v0.1.0

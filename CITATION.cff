@@ -10,7 +10,7 @@ authors:
 repository-code: https://github.com/Thavarshan/dokimos
 url: https://github.com/Thavarshan/dokimos
 license: MIT
-version: 0.1.2
+version: 0.1.3
 date-released: 2026-04-18
 abstract: >-
   Dokimos is a Python CLI for plagiarism evidence discovery across free remote

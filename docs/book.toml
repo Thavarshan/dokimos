@@ -2,7 +2,6 @@
 title = "Dokimos CLI"
 authors = ["Dokimos Team"]
 language = "en"
-multilingual = false
 src = "src"
 
 [build]
