@@ -5,22 +5,29 @@ build-backend = "hatchling.build"
 [project]
 name = "dokimos-cli"
 version = "0.1.0"
-description = "CLI engine for plagiarism checking and AI-writing-risk analysis"
+description = "CLI for plagiarism evidence discovery and AI-writing-risk analysis"
 readme = "README.md"
 requires-python = ">=3.12"
 license = "MIT"
 authors = [{ name = "Dokimos Team" }]
+maintainers = [{ name = "Thavarshan", email = "tjthavarshan@gmail.com" }]
+license-files = ["LICENSE"]
 keywords = ["ai-detection", "cli", "plagiarism", "python", "text-analysis"]
 classifiers = [
     "Development Status :: 3 - Alpha",
+    "Environment :: Console",
     "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "Intended Audience :: Science/Research",
     "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.12",
     "Programming Language :: Python :: 3.13",
     "Programming Language :: Python :: 3.14",
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
     "Topic :: Text Processing :: Linguistic",
+    "Typing :: Typed",
 ]
 dependencies = [
     "typer>=0.12",
@@ -34,6 +41,8 @@ dependencies = [
 Homepage = "https://github.com/Thavarshan/dokimos"
 Repository = "https://github.com/Thavarshan/dokimos"
 Issues = "https://github.com/Thavarshan/dokimos/issues"
+Documentation = "https://github.com/Thavarshan/dokimos#readme"
+"Bug Tracker" = "https://github.com/Thavarshan/dokimos/issues"
 
 [project.optional-dependencies]
 pdf = ["pymupdf>=1.24"]

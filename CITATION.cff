@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: Dokimos
+message: If you use Dokimos in research or teaching, please cite the project using this metadata.
+type: software
+authors:
+  - family-names: Thayananthajothy
+    given-names: Jerome
+    alias: Thavarshan
+repository-code: https://github.com/Thavarshan/dokimos
+url: https://github.com/Thavarshan/dokimos
+license: MIT
+version: 0.1.0
+date-released: 2026-04-18
+abstract: >-
+  Dokimos is a Python CLI for plagiarism evidence discovery across free remote
+  sources and optional local corpora, with heuristic AI-writing-risk analysis
+  and structured reporting.
+keywords:
+  - plagiarism detection
+  - ai detection
+  - command line interface
+  - text analysis

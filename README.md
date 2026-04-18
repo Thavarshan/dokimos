@@ -17,6 +17,10 @@ Repository:
 
 - GitHub: <https://github.com/Thavarshan/dokimos>
 - Issues: <https://github.com/Thavarshan/dokimos/issues>
+- Contributing: [CONTRIBUTING.md](CONTRIBUTING.md)
+- Security policy: [SECURITY.md](SECURITY.md)
+- Code of conduct: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- Citation metadata: [CITATION.cff](CITATION.cff)
 
 ## What It Does
 
