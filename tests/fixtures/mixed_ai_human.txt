@@ -1,0 +1,7 @@
+The intersection of artificial intelligence and healthcare presents both opportunities and challenges. Modern machine learning models can analyze medical images with remarkable accuracy, potentially assisting radiologists in early detection of anomalies.
+
+However, I've seen firsthand how messy real hospital data is — missing fields, inconsistent formats, notes scrawled by overworked residents at 3 AM. No model handles that gracefully yet. My colleague Jane spent six months just cleaning a dataset before we could train anything useful on it.
+
+The ethical implications of algorithmic decision-making in medicine warrant careful consideration. Bias in training data may lead to disparate outcomes across demographic groups, necessitating rigorous validation frameworks.
+
+Still, the potential benefits are enormous. The key is keeping human oversight firmly in the loop while leveraging what the machines do well. It's not about replacing doctors — it's about giving them better tools and, honestly, a bit of their sanity back.

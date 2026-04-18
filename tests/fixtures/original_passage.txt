@@ -1,0 +1,1 @@
+Quantum computing leverages superposition and entanglement to perform calculations that would be infeasible for classical machines.  Recent advances in error correction have brought practical quantum advantage closer to reality.

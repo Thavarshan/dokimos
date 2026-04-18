@@ -1,0 +1,4101 @@
+{
+  "version": "3",
+  "updated_at": "2026-04-18T05:05:40.338644Z",
+  "source_count": 142,
+  "chunk_count": 142,
+  "sources": [
+    {
+      "source_id": "2300fee4-46b2-42f2-b509-b02bf22cdb2c",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-3/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": null,
+      "content_hash": "",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 0
+        }
+      ],
+      "indexed_at": "2026-04-02T08:24:54.640870Z"
+    },
+    {
+      "source_id": "c808b7fe-b9f5-443e-b8f9-baa1875b5fcd",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-3/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": null,
+      "content_hash": "",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 0
+        }
+      ],
+      "indexed_at": "2026-04-02T08:24:54.640971Z"
+    },
+    {
+      "source_id": "29d08bb4-dbd2-4d1f-b35f-459fc72b3571",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-4/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": null,
+      "content_hash": "",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 0
+        }
+      ],
+      "indexed_at": "2026-04-02T08:29:51.548403Z"
+    },
+    {
+      "source_id": "ff15cb97-210f-4139-90b5-c4ade794a5de",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-4/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": null,
+      "content_hash": "",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 0
+        }
+      ],
+      "indexed_at": "2026-04-02T08:29:51.548497Z"
+    },
+    {
+      "source_id": "012c6ef1-7ad5-4ea2-8641-2ca99a74c288",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-8/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": null,
+      "content_hash": "",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 0
+        }
+      ],
+      "indexed_at": "2026-04-02T08:35:43.179764Z"
+    },
+    {
+      "source_id": "ca166abe-5d32-4a2e-a9a8-92460921cf7b",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-8/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": null,
+      "content_hash": "",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 0
+        }
+      ],
+      "indexed_at": "2026-04-02T08:35:43.179864Z"
+    },
+    {
+      "source_id": "010301ee-5f6e-4dc5-b3a5-f7bfb1ca81b2",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-9/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": null,
+      "content_hash": "",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 0
+        }
+      ],
+      "indexed_at": "2026-04-02T08:36:48.244230Z"
+    },
+    {
+      "source_id": "b63ba3dd-14ea-428f-9151-4644ff789237",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-9/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": null,
+      "content_hash": "",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 0
+        }
+      ],
+      "indexed_at": "2026-04-02T08:36:48.244337Z"
+    },
+    {
+      "source_id": "3b3adc7c-f161-4eaa-915c-ceb7afb50eaa",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-10/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": null,
+      "content_hash": "",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 0
+        }
+      ],
+      "indexed_at": "2026-04-02T08:37:28.414712Z"
+    },
+    {
+      "source_id": "1ba636ca-c24d-4f3c-abf3-814446384060",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-10/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": null,
+      "content_hash": "",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 0
+        }
+      ],
+      "indexed_at": "2026-04-02T08:37:28.414827Z"
+    },
+    {
+      "source_id": "e3783992-6df9-4be7-9767-a6b9d5594c3b",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-11/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T08:38:50.377482Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T08:38:50.379954Z"
+    },
+    {
+      "source_id": "2bf419c3-b5b6-45eb-b49d-862805cb0c5e",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-11/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T08:38:50.377585Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T08:38:50.380070Z"
+    },
+    {
+      "source_id": "96ee81a2-edd5-4a2b-a3fd-a2dab6bbbefd",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-12/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T08:39:27.195850Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T08:39:27.198644Z"
+    },
+    {
+      "source_id": "f6e95c3f-e8f0-4148-b2f8-cbb31a3a9a49",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-12/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T08:39:27.195945Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T08:39:27.198761Z"
+    },
+    {
+      "source_id": "18aefbbe-ca33-45bb-b633-29fd8af4dcab",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-14/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T08:40:33.824520Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T08:40:33.827085Z"
+    },
+    {
+      "source_id": "a95656df-1782-45ce-89a0-b9ebfacaca25",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-14/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T08:40:33.824628Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T08:40:33.827192Z"
+    },
+    {
+      "source_id": "7287be96-c64c-489b-a267-bdc5b0812453",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-15/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T08:41:15.765666Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T08:41:15.768382Z"
+    },
+    {
+      "source_id": "ac3e98bf-3e70-4df0-ba5f-4569074a7f13",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-15/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T08:41:15.765772Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T08:41:15.768495Z"
+    },
+    {
+      "source_id": "ed4ddac5-e1b2-4433-9248-a4b5208bf5ac",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-16/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T08:41:33.412975Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T08:41:33.415779Z"
+    },
+    {
+      "source_id": "84e5091e-b2b3-4722-ac5e-e59d480175c5",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-16/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T08:41:33.413070Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T08:41:33.415889Z"
+    },
+    {
+      "source_id": "aa1fd0c7-bcd4-4682-9817-e6b7b8ea212c",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-17/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T08:49:34.525310Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T08:49:34.528001Z"
+    },
+    {
+      "source_id": "29e3918a-97ea-4351-8f23-c32a04e99c19",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-17/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T08:49:34.525409Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T08:49:34.528118Z"
+    },
+    {
+      "source_id": "3c4b6935-4f93-42f0-8608-8c8ad064aecd",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-18/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T08:49:46.456093Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T08:49:46.458752Z"
+    },
+    {
+      "source_id": "72d53050-ecbe-4d90-bc00-e44924e84baf",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-18/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T08:49:46.456181Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T08:49:46.458861Z"
+    },
+    {
+      "source_id": "cce9b35d-08d2-484d-8902-4faaf4881316",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-19/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T08:59:44.890317Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T08:59:44.892975Z"
+    },
+    {
+      "source_id": "90a032c2-a3e1-4680-897f-06be85f37867",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-19/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T08:59:44.890416Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T08:59:44.893085Z"
+    },
+    {
+      "source_id": "186fc4a0-bb6f-4e28-a80c-76c44e59e3b8",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-19/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T08:59:44.898291Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T08:59:44.900947Z"
+    },
+    {
+      "source_id": "ca008fe9-1018-4e2b-a5f9-8090b0563534",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-19/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-02T08:59:44.902616Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-02T08:59:44.905132Z"
+    },
+    {
+      "source_id": "2f7fddb3-6273-4d22-a5d2-db94ad885e71",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-19/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T08:59:44.902456Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T08:59:44.905240Z"
+    },
+    {
+      "source_id": "e7a9cb0b-3303-4a4c-92c8-b9012c33fa2d",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-20/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T09:00:08.084044Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T09:00:08.086975Z"
+    },
+    {
+      "source_id": "b78fff61-32bf-48d5-baed-6014852836c0",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-20/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T09:00:08.084135Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T09:00:08.087081Z"
+    },
+    {
+      "source_id": "cdb30388-9805-4e99-8ed0-d936965560be",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-20/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:00:08.091280Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:00:08.093731Z"
+    },
+    {
+      "source_id": "ff3b162c-d7e0-411e-876c-6dfd800e4d2f",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-20/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-02T09:00:08.095113Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-02T09:00:08.097510Z"
+    },
+    {
+      "source_id": "9960cc2b-04de-428b-950b-48f4672bca5f",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-20/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:00:08.094972Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:00:08.097618Z"
+    },
+    {
+      "source_id": "1e70efc4-f29e-43fa-8303-e0107971fe1f",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-21/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T09:04:25.974863Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T09:04:25.978002Z"
+    },
+    {
+      "source_id": "5eacf62b-352c-4a99-b25c-2ee609145e4a",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-21/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T09:04:25.974960Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T09:04:25.978138Z"
+    },
+    {
+      "source_id": "c618410e-7daf-4063-b1e7-97d7699e875d",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-21/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:04:25.983034Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:04:25.985667Z"
+    },
+    {
+      "source_id": "87409273-2fb1-4d47-9ffb-79ee622ee285",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-21/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-02T09:04:25.987211Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-02T09:04:25.989800Z"
+    },
+    {
+      "source_id": "29ab2ad8-8c78-45aa-bec9-f02d4bd50fe3",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-21/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:04:25.987051Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:04:25.989906Z"
+    },
+    {
+      "source_id": "8e6bf5f3-7fc3-48cf-8ddc-b4f19e08aa10",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-22/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T09:07:15.247816Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T09:07:15.250611Z"
+    },
+    {
+      "source_id": "5128a81e-3b6f-4e1d-bf73-3f60feefe28f",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-22/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T09:07:15.247908Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T09:07:15.250728Z"
+    },
+    {
+      "source_id": "299f77aa-9621-4c7d-80ef-aca9d5d1de66",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-22/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:07:15.255198Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:07:15.257837Z"
+    },
+    {
+      "source_id": "96ef8e47-b0fe-451b-9054-5d2bd7972145",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-22/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-02T09:07:15.259809Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-02T09:07:15.262555Z"
+    },
+    {
+      "source_id": "cb2ab5ff-bb62-448f-a4c6-b9810569856f",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-22/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:07:15.259665Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:07:15.262662Z"
+    },
+    {
+      "source_id": "6d33aa4b-926d-471b-acc4-bb03c0b893c8",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-23/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T09:13:28.757505Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T09:13:28.760602Z"
+    },
+    {
+      "source_id": "c0ef1428-e121-4c19-bccd-71f6774a1b41",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-23/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T09:13:28.757607Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T09:13:28.760723Z"
+    },
+    {
+      "source_id": "cd310e2a-de6f-41e0-935d-7bfcd15ec370",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-23/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:13:28.765944Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:13:28.768610Z"
+    },
+    {
+      "source_id": "280c5998-39f4-41fe-b598-1ad4166e944e",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-23/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-02T09:13:28.770595Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-02T09:13:28.773431Z"
+    },
+    {
+      "source_id": "d978f203-9297-4481-896d-3875a6eedaf5",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-23/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:13:28.770457Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:13:28.773533Z"
+    },
+    {
+      "source_id": "50092628-3fa8-4608-82a9-737b5fe79ee3",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-24/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T09:14:39.015513Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T09:14:39.018310Z"
+    },
+    {
+      "source_id": "d5cad91c-dc85-49c2-9539-f6cad719a9aa",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-24/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T09:14:39.015613Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T09:14:39.018418Z"
+    },
+    {
+      "source_id": "9f232def-664b-42c0-909b-0bc35982a6b4",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-24/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:14:39.023150Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:14:39.025880Z"
+    },
+    {
+      "source_id": "b278c143-d5c7-43c4-9876-cadb1292dc15",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-24/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-02T09:14:39.028088Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-02T09:14:39.031176Z"
+    },
+    {
+      "source_id": "bbb3fe5a-7c93-4f88-a185-7d9884b6a834",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-24/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:14:39.027931Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:14:39.031282Z"
+    },
+    {
+      "source_id": "0d1715f5-f795-4f05-90b6-37f42c5655cb",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-25/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T09:14:55.555834Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T09:14:55.558509Z"
+    },
+    {
+      "source_id": "784ef438-7cf2-4907-9cb7-cb68e688dbe3",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-25/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T09:14:55.555930Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T09:14:55.558619Z"
+    },
+    {
+      "source_id": "503d6373-12ae-4254-9c85-78106cec67bc",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-25/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:14:55.563441Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:14:55.566140Z"
+    },
+    {
+      "source_id": "659016d2-6ddc-4391-b30c-e91c1c2e90be",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-25/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-02T09:14:55.568169Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-02T09:14:55.570793Z"
+    },
+    {
+      "source_id": "2af404ed-1a4d-4fa1-9d6d-a7047c98a0e9",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-25/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:14:55.568028Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:14:55.570896Z"
+    },
+    {
+      "source_id": "3c549f23-8f99-42f9-88e8-d3b5a93e82c1",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-26/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T09:19:25.049134Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T09:19:25.052370Z"
+    },
+    {
+      "source_id": "825a034d-eda0-4adf-8c47-4dff6e5880d2",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-26/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T09:19:25.049227Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T09:19:25.052485Z"
+    },
+    {
+      "source_id": "d5a3468b-2744-4de6-b31a-5610226d2db1",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-26/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:19:25.057645Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:19:25.060660Z"
+    },
+    {
+      "source_id": "9abd7212-8d83-4837-96da-b215dc935515",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-26/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-02T09:19:25.063376Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-02T09:19:25.066184Z"
+    },
+    {
+      "source_id": "b488584b-2021-462f-9c08-f5c141f163e1",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-26/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:19:25.063228Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:19:25.066295Z"
+    },
+    {
+      "source_id": "7555999c-271a-4e97-9210-ae9d939a9f82",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-27/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T09:19:48.832686Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T09:19:48.835429Z"
+    },
+    {
+      "source_id": "165c33a2-6553-434f-ae1e-145524f4923a",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-27/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T09:19:48.832782Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T09:19:48.835542Z"
+    },
+    {
+      "source_id": "5ddd4b7b-35d4-4a54-9813-5e1b4515ce9b",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-27/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:19:48.840311Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:19:48.843109Z"
+    },
+    {
+      "source_id": "2c167386-b9da-40df-8d7f-f530aebc9839",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-27/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-02T09:19:48.845237Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-02T09:19:48.848498Z"
+    },
+    {
+      "source_id": "d5b47ad6-102b-46dc-b995-71983e63f047",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-27/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:19:48.845092Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:19:48.848613Z"
+    },
+    {
+      "source_id": "adf19635-6237-4e86-b5d5-2ac4a6ed8582",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-28/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T09:19:56.558191Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T09:19:56.561172Z"
+    },
+    {
+      "source_id": "eb280d9a-9d16-4afd-bd34-7d30ca1f19cf",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-28/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T09:19:56.558283Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T09:19:56.561276Z"
+    },
+    {
+      "source_id": "37f546e0-e258-4884-8229-eabca141668a",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-28/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:19:56.565981Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:19:56.569296Z"
+    },
+    {
+      "source_id": "33896425-3440-49a8-b398-04d556976674",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-28/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-02T09:19:56.571452Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-02T09:19:56.574155Z"
+    },
+    {
+      "source_id": "2d844672-420b-4e14-a8ef-9584442a491c",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-28/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:19:56.571308Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:19:56.574252Z"
+    },
+    {
+      "source_id": "5b56c7e1-567e-4937-a6a4-976a4f8984f0",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-29/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T09:21:29.709220Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T09:21:29.712214Z"
+    },
+    {
+      "source_id": "6cf43d90-01e1-4652-81ca-6a679a7e2bbb",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-29/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T09:21:29.709443Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T09:21:29.712319Z"
+    },
+    {
+      "source_id": "23e616da-40bf-4400-b1e8-ee114b4c172a",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-29/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:21:29.717683Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:21:29.720510Z"
+    },
+    {
+      "source_id": "c6779900-cf6c-474d-9b9d-ab8c0c3b5254",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-29/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-02T09:21:29.722840Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-02T09:21:29.725862Z"
+    },
+    {
+      "source_id": "096219a4-c423-401e-a414-4371fa12513b",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-29/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:21:29.722694Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:21:29.725990Z"
+    },
+    {
+      "source_id": "68eb08d6-27e3-4edd-bf20-23796390ee2a",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-30/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T09:21:51.306819Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T09:21:51.310095Z"
+    },
+    {
+      "source_id": "8e5aa79d-3449-43bd-8b91-0b40ee11d287",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-30/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T09:21:51.306908Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T09:21:51.310205Z"
+    },
+    {
+      "source_id": "033245a6-01df-4b21-94b9-0bd1a9e6492a",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-30/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:21:51.315283Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:21:51.318028Z"
+    },
+    {
+      "source_id": "0983fd09-a308-4ea4-adaa-0522625db70f",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-30/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-02T09:21:51.320148Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-02T09:21:51.322842Z"
+    },
+    {
+      "source_id": "c5a1ee88-4e79-48c4-b1fb-4a7d99fd3558",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-30/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T09:21:51.319988Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T09:21:51.322948Z"
+    },
+    {
+      "source_id": "acec27d8-4de6-4366-8144-ec553a2d1e4f",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-31/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-02T13:05:11.295984Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-02T13:05:11.299193Z"
+    },
+    {
+      "source_id": "b4691233-65ea-45ba-aed4-658d4fa7adf8",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-31/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-02T13:05:11.296080Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-02T13:05:11.299304Z"
+    },
+    {
+      "source_id": "6f0c54b9-92e5-4194-a701-f29694d8f409",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-31/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T13:05:11.304801Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T13:05:11.307653Z"
+    },
+    {
+      "source_id": "058ec8b9-ade4-46c6-8df5-c04a8dc44f87",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-31/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-02T13:05:11.309854Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-02T13:05:11.312586Z"
+    },
+    {
+      "source_id": "d1ccf338-e233-46e1-983f-61e5dc89191c",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-31/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-02T13:05:11.309711Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-02T13:05:11.312691Z"
+    },
+    {
+      "source_id": "21cf5cb0-6331-4420-9248-9c381e098a5a",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-32/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-17T04:06:46.060577Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-17T04:06:46.063704Z"
+    },
+    {
+      "source_id": "00d1aa27-4d0f-4242-be85-db125f26cb48",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-32/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-17T04:06:46.060679Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-17T04:06:46.063815Z"
+    },
+    {
+      "source_id": "5cca1a2d-66eb-4a16-9549-a8673a019b2c",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-32/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-17T04:06:46.069568Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-17T04:06:46.073328Z"
+    },
+    {
+      "source_id": "1793015d-b728-4fd4-89a3-27acf040f372",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-32/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-17T04:06:46.075935Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-17T04:06:46.078946Z"
+    },
+    {
+      "source_id": "8e7e0e79-9ed0-448d-9585-e2ff678f0818",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-32/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-17T04:06:46.075776Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-17T04:06:46.079092Z"
+    },
+    {
+      "source_id": "b21d69a7-2375-4064-b0ee-0302b9ec2263",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-33/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-17T04:16:26.872824Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-17T04:16:26.876526Z"
+    },
+    {
+      "source_id": "1c496280-0b7b-4f76-9aa6-b73c5431a806",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-33/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-17T04:16:26.872930Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-17T04:16:26.876662Z"
+    },
+    {
+      "source_id": "9da825fb-ce7d-4aef-b140-fdbef93bec17",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-33/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-17T04:16:26.884094Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-17T04:16:26.887673Z"
+    },
+    {
+      "source_id": "e703a4ef-d9b9-45c2-8247-baf2c56bbd99",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-33/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-17T04:16:26.890888Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-17T04:16:26.894053Z"
+    },
+    {
+      "source_id": "af18d891-4dcf-4372-8a3c-47d2e52f07c8",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-33/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-17T04:16:26.890713Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-17T04:16:26.894164Z"
+    },
+    {
+      "source_id": "203baa27-c673-444e-b19b-c8c807821552",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-35/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-17T04:17:31.425380Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-17T04:17:31.428587Z"
+    },
+    {
+      "source_id": "82b08cd2-3507-4d84-895f-0d850270482f",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-35/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-17T04:17:31.425475Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-17T04:17:31.428691Z"
+    },
+    {
+      "source_id": "5247e65c-6207-4efd-9603-f1b5a76ea7f5",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-35/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-17T04:17:31.434406Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-17T04:17:31.437406Z"
+    },
+    {
+      "source_id": "0b69b820-7f10-4326-a40c-baf805f1803b",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-35/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-17T04:17:31.439921Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-17T04:17:31.442733Z"
+    },
+    {
+      "source_id": "3e4a80f0-2799-45f5-941c-b7b378d168a5",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-35/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-17T04:17:31.439773Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-17T04:17:31.442843Z"
+    },
+    {
+      "source_id": "3ff6d9f7-fc13-4bb9-ba46-745519b417bc",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-36/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-17T04:17:33.771743Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-17T04:17:33.775445Z"
+    },
+    {
+      "source_id": "00c53f2b-9eb4-4578-b168-aad9de87b5ea",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-36/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-17T04:17:33.771850Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-17T04:17:33.775561Z"
+    },
+    {
+      "source_id": "56684b24-9021-447a-8b9a-1966dc181e7f",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-36/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-17T04:17:33.780731Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-17T04:17:33.784678Z"
+    },
+    {
+      "source_id": "123f39a3-3bd6-456c-a9c2-e4eced3f4ac7",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-36/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-17T04:17:33.787133Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-17T04:17:33.790132Z"
+    },
+    {
+      "source_id": "39c06cba-9d18-4cda-b6bf-d59018cfc57a",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-36/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-17T04:17:33.786984Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-17T04:17:33.790231Z"
+    },
+    {
+      "source_id": "b14cc7c3-e6b9-4bda-b5e4-8fe626daebe7",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-37/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-17T04:23:42.247720Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-17T04:23:42.250695Z"
+    },
+    {
+      "source_id": "0fbee514-544f-4bf8-b46d-19d02203f7b1",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-37/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-17T04:23:42.247813Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-17T04:23:42.250807Z"
+    },
+    {
+      "source_id": "77e5fc48-86f1-4f2d-a4f7-a5425e2ee7c0",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-37/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-17T04:23:42.257427Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-17T04:23:42.260389Z"
+    },
+    {
+      "source_id": "66f24c05-c822-4dd2-bff8-17a90267101e",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-37/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-17T04:23:42.262998Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-17T04:23:42.265966Z"
+    },
+    {
+      "source_id": "9f8ec8e7-f68c-4e97-b791-2bb54ec34e57",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-37/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-17T04:23:42.262841Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-17T04:23:42.266063Z"
+    },
+    {
+      "source_id": "7d3cd4b9-de3e-419e-8ef3-b5f636beafe5",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-38/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-17T04:24:29.151010Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-17T04:24:29.161446Z"
+    },
+    {
+      "source_id": "ed37b6c7-dc9e-4904-a863-70b20822790a",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-38/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-17T04:24:29.151991Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-17T04:24:29.161595Z"
+    },
+    {
+      "source_id": "d60414a4-13cf-44fd-9a21-46f636de4251",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-38/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-17T04:24:29.172676Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-17T04:24:29.180169Z"
+    },
+    {
+      "source_id": "a26df7aa-f7ef-4c73-a9b9-4d08e388a2f7",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-38/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-17T04:24:29.187258Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-17T04:24:29.198147Z"
+    },
+    {
+      "source_id": "e0831090-53c6-4a49-b82b-f630604c175b",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-38/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-17T04:24:29.187088Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-17T04:24:29.198275Z"
+    },
+    {
+      "source_id": "3eb079af-787d-4061-a981-9d3323f5c684",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-39/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-17T04:25:13.083120Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-17T04:25:13.087125Z"
+    },
+    {
+      "source_id": "865d5fda-4bb0-466f-b4c3-a5b56d64a5be",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-39/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-17T04:25:13.083231Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-17T04:25:13.087277Z"
+    },
+    {
+      "source_id": "f35270e2-25de-4e3f-8ad1-d3b8867e984c",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-39/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-17T04:25:13.094574Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-17T04:25:13.098159Z"
+    },
+    {
+      "source_id": "7b82a673-bbb6-4815-a29b-44c9c7530507",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-39/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-17T04:25:13.101684Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-17T04:25:13.105743Z"
+    },
+    {
+      "source_id": "9482ddf7-ef9a-4390-b771-859871601b29",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-39/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-17T04:25:13.101515Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-17T04:25:13.105844Z"
+    },
+    {
+      "source_id": "616e6b76-8dd9-43e8-9c12-e2dcc78f0221",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-0/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-18T04:52:56.715404Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-18T04:52:56.718595Z"
+    },
+    {
+      "source_id": "9631d1bc-5e2e-4c40-89ea-8052e40a9344",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-0/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-18T04:52:56.715489Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-18T04:52:56.718702Z"
+    },
+    {
+      "source_id": "b5550117-28fc-4424-b19b-7e4addfaa381",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-0/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-18T04:52:56.724223Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-18T04:52:56.727342Z"
+    },
+    {
+      "source_id": "865cff3b-bcdc-4c61-8ac5-68cf46a06287",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-0/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-18T04:52:56.729978Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-18T04:52:56.732969Z"
+    },
+    {
+      "source_id": "7a33cc18-e828-442e-8106-ee76554ab0e7",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-0/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-18T04:52:56.729823Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-18T04:52:56.733066Z"
+    },
+    {
+      "source_id": "b2cc5847-d4e4-465e-af85-a81aa8fb6126",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-1/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-18T04:53:00.685853Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-18T04:53:00.689250Z"
+    },
+    {
+      "source_id": "8cbafe41-3a06-40ec-aead-3f5f769464ec",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-1/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-18T04:53:00.685945Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-18T04:53:00.689357Z"
+    },
+    {
+      "source_id": "8a6ff7b1-a218-4a07-a9ff-57a9bff635d8",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-1/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-18T04:53:00.694556Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-18T04:53:00.697650Z"
+    },
+    {
+      "source_id": "ea4e4f8b-c02f-417a-91f5-2e16c8344300",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-1/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-18T04:53:00.700556Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-18T04:53:00.703510Z"
+    },
+    {
+      "source_id": "b752d1af-0f62-45e5-9cea-5b649bb0a484",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-1/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-18T04:53:00.700420Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-18T04:53:00.703606Z"
+    },
+    {
+      "source_id": "d8f89736-0976-4062-94a7-fa4e18a35a89",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-2/test_index_sources_directory0/corpus/source_a.txt",
+      "label": "source_a.txt",
+      "modified_at": "2026-04-18T04:54:35.687634Z",
+      "content_hash": "8ec9a32f4d1c9495956cba9f72312dc9d33e0dc1bc54032fac0406a76939bfb5",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "The fox jumped over the lazy dog.",
+          "normalized_text": "the fox jumped over the lazy dog.",
+          "shingles": [
+            "the fox jumped over the",
+            "fox jumped over the lazy",
+            "jumped over the lazy dog."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 33
+        }
+      ],
+      "indexed_at": "2026-04-18T04:54:35.690765Z"
+    },
+    {
+      "source_id": "4921872b-2821-4cae-8e42-baa8a50d1537",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-2/test_index_sources_directory0/corpus/source_b.txt",
+      "label": "source_b.txt",
+      "modified_at": "2026-04-18T04:54:35.687726Z",
+      "content_hash": "a182c66e9288207d09f6e5580ca0c0d8d26211b023825b7c6ef5acac4a1d4265",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "A completely different document about cats.",
+          "normalized_text": "a completely different document about cats.",
+          "shingles": [
+            "a completely different document about",
+            "completely different document about cats."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 43
+        }
+      ],
+      "indexed_at": "2026-04-18T04:54:35.690878Z"
+    },
+    {
+      "source_id": "1a7b7462-85b9-4a84-8bd2-3f8c4acbec7d",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-2/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-18T04:54:35.696593Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-18T04:54:35.699689Z"
+    },
+    {
+      "source_id": "6a1fe357-0e90-4dcf-8d44-2168f52b4041",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-2/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-18T04:54:35.702468Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-18T04:54:35.705556Z"
+    },
+    {
+      "source_id": "8eeb27fa-c90a-4cb9-b841-31521d191081",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-2/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-18T04:54:35.702328Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-18T04:54:35.705658Z"
+    },
+    {
+      "source_id": "b738d13d-0691-4441-a51e-51b75ab5e221",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-4/test_index_sources_no_recursiv0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-18T05:05:40.327399Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-18T05:05:40.332024Z"
+    },
+    {
+      "source_id": "7fa78a72-f58e-49cd-a7e7-10759f8c8954",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-4/test_index_sources_recursive_d0/corpus_root/sub/nested.txt",
+      "label": "nested.txt",
+      "modified_at": "2026-04-18T05:05:40.334991Z",
+      "content_hash": "169e0ffac420638e66306eb305c26cc474c6f24e4b221a46391290f8cc217044",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Nested file.",
+          "normalized_text": "nested file.",
+          "shingles": [
+            "nested file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 12
+        }
+      ],
+      "indexed_at": "2026-04-18T05:05:40.338375Z"
+    },
+    {
+      "source_id": "5679cb4d-0a4c-40dc-8ef4-2a1c9168876a",
+      "source_path": "/private/var/folders/d5/w2xtpk692j1__3129ng996zw0000gn/T/pytest-of-jerome/pytest-4/test_index_sources_recursive_d0/corpus_root/top.txt",
+      "label": "top.txt",
+      "modified_at": "2026-04-18T05:05:40.334820Z",
+      "content_hash": "075a39ed573b8e95ab93347983f55f35bf280860f976cdefa019b4ee75a8c92d",
+      "chunks": [
+        {
+          "chunk_index": 0,
+          "text": "Top-level file.",
+          "normalized_text": "top-level file.",
+          "shingles": [
+            "top-level file."
+          ],
+          "shingle_hashes": [],
+          "start_offset": 0,
+          "end_offset": 15
+        }
+      ],
+      "indexed_at": "2026-04-18T05:05:40.338488Z"
+    }
+  ],
+  "inverted": {
+    "entries": {
+      "the fox jumped over the": [
+        {
+          "source_idx": 0,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 2,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 4,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 6,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 8,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 10,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 12,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 14,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 16,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 18,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 20,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 22,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 24,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 29,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 34,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 39,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 44,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 49,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 54,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 59,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 64,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 69,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 74,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 79,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 84,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 89,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 94,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 99,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 104,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 109,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 114,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 119,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 124,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 129,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 134,
+          "chunk_idx": 0
+        }
+      ],
+      "fox jumped over the lazy": [
+        {
+          "source_idx": 0,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 2,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 4,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 6,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 8,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 10,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 12,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 14,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 16,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 18,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 20,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 22,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 24,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 29,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 34,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 39,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 44,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 49,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 54,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 59,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 64,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 69,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 74,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 79,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 84,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 89,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 94,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 99,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 104,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 109,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 114,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 119,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 124,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 129,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 134,
+          "chunk_idx": 0
+        }
+      ],
+      "jumped over the lazy dog.": [
+        {
+          "source_idx": 0,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 2,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 4,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 6,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 8,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 10,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 12,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 14,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 16,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 18,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 20,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 22,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 24,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 29,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 34,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 39,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 44,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 49,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 54,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 59,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 64,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 69,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 74,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 79,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 84,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 89,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 94,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 99,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 104,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 109,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 114,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 119,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 124,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 129,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 134,
+          "chunk_idx": 0
+        }
+      ],
+      "a completely different document about": [
+        {
+          "source_idx": 1,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 3,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 5,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 7,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 9,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 11,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 13,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 15,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 17,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 19,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 21,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 23,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 25,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 30,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 35,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 40,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 45,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 50,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 55,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 60,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 65,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 70,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 75,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 80,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 85,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 90,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 95,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 100,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 105,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 110,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 115,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 120,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 125,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 130,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 135,
+          "chunk_idx": 0
+        }
+      ],
+      "completely different document about cats.": [
+        {
+          "source_idx": 1,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 3,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 5,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 7,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 9,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 11,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 13,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 15,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 17,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 19,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 21,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 23,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 25,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 30,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 35,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 40,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 45,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 50,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 55,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 60,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 65,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 70,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 75,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 80,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 85,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 90,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 95,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 100,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 105,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 110,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 115,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 120,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 125,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 130,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 135,
+          "chunk_idx": 0
+        }
+      ],
+      "top-level file.": [
+        {
+          "source_idx": 26,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 28,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 31,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 33,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 36,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 38,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 41,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 43,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 46,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 48,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 51,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 53,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 56,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 58,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 61,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 63,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 66,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 68,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 71,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 73,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 76,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 78,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 81,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 83,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 86,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 88,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 91,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 93,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 96,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 98,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 101,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 103,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 106,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 108,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 111,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 113,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 116,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 118,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 121,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 123,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 126,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 128,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 131,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 133,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 136,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 138,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 139,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 141,
+          "chunk_idx": 0
+        }
+      ],
+      "nested file.": [
+        {
+          "source_idx": 27,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 32,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 37,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 42,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 47,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 52,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 57,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 62,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 67,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 72,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 77,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 82,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 87,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 92,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 97,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 102,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 107,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 112,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 117,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 122,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 127,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 132,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 137,
+          "chunk_idx": 0
+        },
+        {
+          "source_idx": 140,
+          "chunk_idx": 0
+        }
+      ]
+    }
+  }
+}

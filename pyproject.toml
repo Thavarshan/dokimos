@@ -1,0 +1,65 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "dokimos-cli"
+version = "0.1.0"
+description = "CLI engine for plagiarism checking and AI-writing-risk analysis"
+readme = "README.md"
+requires-python = ">=3.12"
+license = "MIT"
+authors = [{ name = "Dokimos Team" }]
+keywords = ["ai-detection", "cli", "plagiarism", "python", "text-analysis"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Text Processing :: Linguistic",
+]
+dependencies = [
+    "typer>=0.12",
+    "rich>=13",
+    "pydantic>=2.7",
+    "pydantic-settings>=2.3",
+    "rapidfuzz>=3.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/Thavarshan/dokimos"
+Repository = "https://github.com/Thavarshan/dokimos"
+Issues = "https://github.com/Thavarshan/dokimos/issues"
+
+[project.optional-dependencies]
+pdf = ["pymupdf>=1.24"]
+docx = ["python-docx>=1.1"]
+all = ["dokimos-cli[pdf,docx]"]
+dev = [
+    "pytest>=8",
+    "pytest-cov",
+    "ruff",
+]
+
+[project.scripts]
+dokimos = "dokimos.cli:app"
+dokimos-cli = "dokimos.cli:app"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/dokimos"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+src = ["src", "tests"]
+target-version = "py312"
+line-length = 99
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B", "SIM", "RUF"]
